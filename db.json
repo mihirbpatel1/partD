@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Ankur D",
+      "email": "ank@gmail.com",
+      "phone": "306-261-0014",
+      "id": 1
+    },
+    {
+      "name": "Mihir Patel",
+      "email": "mihirbpatel_2@yahoo.ca",
+      "phone": "3062610014",
+      "id": 2
+    },
+    {
+      "name": "HP",
+      "email": "hp@emi.com",
+      "phone": "306-25414",
+      "id": 3
+    }
+  ],
+  "persons": []
+}
